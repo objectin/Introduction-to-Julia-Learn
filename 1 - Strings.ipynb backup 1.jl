@@ -348,7 +348,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": null,
    "metadata": {
     "deletable": false,
     "nbgrader": {
@@ -360,24 +360,12 @@
      "solution": true
     }
    },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "\"hihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi\" ⋯ 1460 bytes ⋯ \"hihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi\""
-      ]
-     },
-     "metadata": {},
-     "output_type": "display_data"
-    }
-   ],
-   "source": [
-    "hi = \"hi\"^1000"
-   ]
+   "outputs": [],
+   "source": []
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": null,
    "metadata": {
     "deletable": false,
     "editable": false,
@@ -418,7 +406,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": null,
    "metadata": {
     "deletable": false,
     "nbgrader": {
@@ -430,27 +418,12 @@
      "solution": true
     }
    },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "\"7\""
-      ]
-     },
-     "metadata": {},
-     "output_type": "display_data"
-    }
-   ],
-   "source": [
-    "a = 3\n",
-    "b = 4\n",
-    "c = \"$a + $b\"\n",
-    "d = \"$(a + b)\""
-   ]
+   "outputs": [],
+   "source": []
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": null,
    "metadata": {
     "deletable": false,
     "editable": false,
@@ -470,26 +443,19 @@
     "@assert c == \"3 + 4\"\n",
     "@assert d == \"7\""
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Julia 1.8.2",
+   "display_name": "Julia 1.6.0",
    "language": "julia",
-   "name": "julia-1.8"
+   "name": "julia-1.6"
   },
   "language_info": {
    "file_extension": ".jl",
    "mimetype": "application/julia",
    "name": "julia",
-   "version": "1.8.2"
+   "version": "1.6.3"
   }
  },
  "nbformat": 4,
